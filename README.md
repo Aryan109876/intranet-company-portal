@@ -205,3 +205,12 @@ Detailed API documentation is available in the `/docs` directory.
 ## License
 
 MIT License - feel free to use this project for your own purposes.
+![image](https://github.com/user-attachments/assets/3a70f445-efa5-4b7c-b9c0-94afc00d4761)
+![image](https://github.com/user-attachments/assets/7cd7c2a5-e505-401d-946f-0968e5c672e0)
+![image](https://github.com/user-attachments/assets/14183648-d818-4ff1-93d5-29a2704cf322)
+![image](https://github.com/user-attachments/assets/60161161-79f5-46dd-ac6e-07db3aa6a71c)
+![image](https://github.com/user-attachments/assets/2fa3edee-3882-4283-bc2c-84d8ae919d87)
+
+
+
+
